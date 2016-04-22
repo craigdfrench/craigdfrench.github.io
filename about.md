@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+<a href="http://stackoverflow.com/users/3803219/craigdfrench">
+<img src="http://stackoverflow.com/users/flair/3803219.png" width="208" height="58" alt="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
+
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
