@@ -12,7 +12,7 @@ permalink: /about/
 <img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for Craig Douglas French at Server Fault, Q&amp;A for system and network administrators" title="profile for Craig Douglas French at Server Fault, Q&amp;A for system and network administrators">
 </a>  
 
-GPG Fingerprint: ![](_includes/pgp.png)
+GPG Fingerprint: ![](../_includes/pgp.png)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
