@@ -8,9 +8,9 @@ permalink: /about/
 <img src="http://stackoverflow.com/users/flair/3803219.png" width="208" height="58" alt="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>  
 
-<a href="http://serverfault.com/users/237560/craig-douglas-french">
-<img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for Craig Douglas French at Server Fault, Q&amp;A for system and network administrators" title="profile for Craig Douglas French at Server Fault, Q&amp;A for system and network administrators">
-</a>  
+<a href="http://serverfault.com/users/237560/craigdfrench">
+<img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators" title="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators">
+</a>
 
 GPG Fingerprint: ![](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
 
