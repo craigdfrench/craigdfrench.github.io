@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/craigdfrench
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://craigdfrench.io
+  * I am craigdfrench (https://keybase.io/craigdfrench) on keybase.
+  * I have a public key ASBD6ZpG5umZugW5SFeeMUADFh6q1r86y3hYWcSxLU_VcQo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012043e99a46e6e999ba05b948579e314003161eaad6bf3acb785859c4b12d4fd5710a",
+            "host": "keybase.io",
+            "kid": "012043e99a46e6e999ba05b948579e314003161eaad6bf3acb785859c4b12d4fd5710a",
+            "uid": "97141ef230cf243aead275dbfab14119",
+            "username": "craigdfrench"
+        },
+        "service": {
+            "hostname": "craigdfrench.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.16"
+    },
+    "ctime": 1469842758,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1469842568,
+        "hash": "f350f61895141ac30009403a3b9217405a92cd271e40d39a326089c5f1ddd98a5fbaa518911dd4053512e4e6ff10535f6694abee8228e34a1c3862e646c4e4e0",
+        "seqno": 549449
+    },
+    "prev": "11d1d80627392158ec4569e1107538c99876651c6abf3e2cd635af54cfa777b9",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQ+maRubpmboFuUhXnjFAAxYeqta/Ost4WFnEsS1P1XEKp3BheWxvYWTFAvt7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDNlOTlhNDZlNmU5OTliYTA1Yjk0ODU3OWUzMTQwMDMxNjFlYWFkNmJmM2FjYjc4NTg1OWM0YjEyZDRmZDU3MTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDNlOTlhNDZlNmU5OTliYTA1Yjk0ODU3OWUzMTQwMDMxNjFlYWFkNmJmM2FjYjc4NTg1OWM0YjEyZDRmZDU3MTBhIiwidWlkIjoiOTcxNDFlZjIzMGNmMjQzYWVhZDI3NWRiZmFiMTQxMTkiLCJ1c2VybmFtZSI6ImNyYWlnZGZyZW5jaCJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiY3JhaWdkZnJlbmNoLmlvIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTYifSwiY3RpbWUiOjE0Njk4NDI3NTgsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ2OTg0MjU2OCwiaGFzaCI6ImYzNTBmNjE4OTUxNDFhYzMwMDA5NDAzYTNiOTIxNzQwNWE5MmNkMjcxZTQwZDM5YTMyNjA4OWM1ZjFkZGQ5OGE1ZmJhYTUxODkxMWRkNDA1MzUxMmU0ZTZmZjEwNTM1ZjY2OTRhYmVlODIyOGUzNGExYzM4NjJlNjQ2YzRlNGUwIiwic2Vxbm8iOjU0OTQ0OX0sInByZXYiOiIxMWQxZDgwNjI3MzkyMTU4ZWM0NTY5ZTExMDc1MzhjOTk4NzY2NTFjNmFiZjNlMmNkNjM1YWY1NGNmYTc3N2I5Iiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAiJpIL791c9rLCAqQ6lYOzRTXj1PJUZb7MobuIOnO6si/5+Y+Ibd+cRqY+hCS3c+fxQmSTrupUcIgW2u8AU5YDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIPMf4bf/A6O8cm3irvQ+JWPzkKtKI9GLSbOFnjm5ow9vo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/craigdfrench
+
+==================================================================
