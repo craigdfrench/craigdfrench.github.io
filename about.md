@@ -11,7 +11,7 @@ permalink: /about/
 <a href="http://serverfault.com/users/237560/craigdfrench">
 <img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators" title="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators">
 </a>
-
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="craigdfrench"><a class="LI-simple-link" href='https://ca.linkedin.com/in/craigdfrench?trk=profile-badge'>Craig D. French</a></div>
 
 GPG Fingerprint: ![](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
