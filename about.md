@@ -12,6 +12,8 @@ permalink: /about/
 <img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators" title="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators">
 </a>
 
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="craigdfrench"><a class="LI-simple-link" href='https://ca.linkedin.com/in/craigdfrench?trk=profile-badge'>Craig D. French</a></div>
+
 GPG Fingerprint: ![](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
@@ -19,6 +21,7 @@ This is the base Jekyll theme. You can find out more info about customizing your
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
 [jekyll-new](https://github.com/jglovier/jekyll-new)
+
 
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
