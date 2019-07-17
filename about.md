@@ -14,8 +14,9 @@ permalink: /about/
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js"></script>
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="craigdfrench"><a class="LI-simple-link" href='https://ca.linkedin.com/in/craigdfrench?trk=profile-badge'>Craig D. French</a></div>
-
-GPG Fingerprint: ![QR](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
+<a title="Keybase" target="_blank" href="https://keybase.io/craigdfrench">
+  <img src="https://badgen.net/keybase/pgp/craigdfrench">
+</a>
 
 IEEE Membership: [Membership Certificate](https://craigdfrench.keybase.pub/IEEEMemberCertificate.pdf)
 
