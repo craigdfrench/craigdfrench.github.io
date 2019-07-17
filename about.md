@@ -17,7 +17,7 @@ permalink: /about/
 
 GPG Fingerprint: ![QR](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
 
-IEEE Membership: ![Membership Certificate)(https://keybase.pub/craigdfrench/IEEEMemberCertificate.pdf)
+IEEE Membership: [Membership Certificate](https://craigdfrench.keybase.pub/IEEEMemberCertificate.pdf)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
