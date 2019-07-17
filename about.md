@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-<a href="http://stackoverflow.com/users/3803219/craigdfrench">
-<img src="http://stackoverflow.com/users/flair/3803219.png" width="208" height="58" alt="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+<a href="https://stackoverflow.com/users/3803219/craigdfrench">
+<img src="https://stackoverflow.com/users/flair/3803219.png" width="208" height="58" alt="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>  
 
-<a href="http://serverfault.com/users/237560/craigdfrench">
-<img src="http://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators" title="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators">
+<a href="https://serverfault.com/users/237560/craigdfrench">
+<img src="https://serverfault.com/users/flair/237560.png" width="208" height="58" alt="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators" title="profile for craigdfrench at Server Fault, Q&amp;A for system and network administrators">
 </a>
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js"></script>
 
