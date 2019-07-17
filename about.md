@@ -15,7 +15,9 @@ permalink: /about/
 
 <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="craigdfrench"><a class="LI-simple-link" href='https://ca.linkedin.com/in/craigdfrench?trk=profile-badge'>Craig D. French</a></div>
 
-GPG Fingerprint: ![](pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
+GPG Fingerprint: ![QR](_include/pgp.png) 778BC61FF2E577E2314CD3DE25F0ADC8C0B84381
+
+IEEE Membership: ![Membership Certificate)(https://keybase.pub/craigdfrench/IEEEMemberCertificate.pdf)
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
