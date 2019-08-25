@@ -17,15 +17,15 @@ Now the story begins...
 
 My wife and I use a password manager called [Keepass](https://keepass.info) that runs on a Windows, and MacOS using mono. 
 
-<img src='/assets/Keypass2Android.png'  title='KeyPass2Android logo'/>
+<img src='/assets/Keypass2Android.PNG'  title='KeePass2Android logo'/>
 
-For Android, there is an excellent called [Keepass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=en) is an excellent password manager that is fully compatible with KeePass.  It also supports a dropbox integration which makes it slick for integrating with the desktop versions of Keepass.  
+For Android, there is an excellent called [KeePass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=en) is an excellent password manager that is fully compatible with KeePass.  It also supports a dropbox integration which makes it slick for integrating with the desktop versions of Keepass.  
 
 I wanted to send a donation to support the development of Keepass2Android because it is so awesome! I found out that the author has a bitcoin address to receive donations.  The wallet address is like an email address or postal address. 
 
 Philipp Crocoll lists his bitcoin wallet as 1E4gY27TL7utg1XcNNeGRiyiaRQ4p33LB4 on [his website](http://philipp.crocoll.net/donate.php) 
 
-<img src='/assets/coinbase.png'  title='Coinbase logo'/>
+<img src='/assets/coinbase.PNG'  title='Coinbase logo'/>
 
 So I went on to my [coinbase account](https://www.coinbase.com/join/french_ae3)
 
