@@ -17,5 +17,5 @@ github_username:  craigdfrench
 
 # Build settings
 markdown: kramdown
-host: 172.31.254.40 
+host: localhost
 port: 8080
