@@ -1,15 +1,13 @@
 
 var xmlhttp = new XMLHttpRequest();
 var url = "https://bitnodes.earn.com/api/v1/snapshots/?page=1&limit=1";
-
+myFunction({ results: [ {timestamp: 1567261618,total_nodes: 9654}] })
 xmlhttp.onreadystatechange = function() {
     if (this.readyState == 4 && this.status == 200) {
         var myArr = JSON.parse(this.responseText);
         myFunction(myArr);
     } 
-    else if (this.readyState == 4 && this.status != 200) {
-        myFunction({ results: [ {timestamp: 1567261618,total_nodes: 9654}] })
-    }
+ 
 };
 xmlhttp.open("GET", url, true);
 xmlhttp.send();

@@ -76,7 +76,7 @@ https://blockchain.info/q/addressbalance/1CnxCWztWDsGfxQqNcv4hfPLFw8Hw7AsUH
 
 The website blockchain.info is able to calculate my balance of <span id="myBTCBalance"></span> Bitcoin (BTC) almost instantly.  
 
-I think that is pretty neat!  Don't you agree?
+I think that is pretty neat!  Do you agree?
 
 ### Immutable
 <figure>   
