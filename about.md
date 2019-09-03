@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+
+
 <a href="https://stackoverflow.com/users/3803219/craigdfrench">
 <img src="https://stackoverflow.com/users/flair/3803219.png" width="208" height="58" alt="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for craigdfrench at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>  
