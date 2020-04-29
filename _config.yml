@@ -7,11 +7,11 @@
 
 # Site settings
 title: Craig D. French 
-email: website@craigdfrench.io
+email: website@craigdfrench.com
 description: > # this means to ignore newlines until "baseurl:"
   Professional Website for Craig D. French, P.Eng.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://craigdfrench.io" # the base hostname & protocol for your site
+url: "http://craigdfrench.com" # the base hostname & protocol for your site
 twitter_username: craigdfrench 
 github_username:  craigdfrench
 exclude: ['node_modules']
