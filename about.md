@@ -20,4 +20,4 @@ permalink: /about/
   <img src="https://badgen.net/keybase/pgp/craigdfrench">
 </a>
 
-IEEE Membership: [Membership Certificate](https://craigdfrench.keybase.pub/IEEEMemberCertificate.pdf)
+IEEE Membership: [Membership Certificate](https://craigdfrench.keybase.pub/2020CertificateIEEEMembership.pdf)
