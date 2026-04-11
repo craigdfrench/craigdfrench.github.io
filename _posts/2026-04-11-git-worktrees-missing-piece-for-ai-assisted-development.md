@@ -5,7 +5,7 @@ date: 2026-04-11
 categories: [development, git, ai, windsurf]
 ---
 
-![Git Worktrees and Parallel AI Sessions](../assets/img/worktree_header.png)
+![Git Worktrees and Parallel AI Sessions]({{ site.baseurl }}/assets/img/worktree_header.png)
 
 There's a moment every developer knows — you're deep in the zone, multiple things firing at once, and it all feels great. Until it doesn't.
 
@@ -27,7 +27,7 @@ The results were genuinely impressive. Each session understood the requirements,
 
 ## When Parallel Becomes Chaos
 
-![Tangled Code Changes Across Sessions](../assets/img/chaos_tangle.png)
+![Tangled Code Changes Across Sessions]({{ site.baseurl }}/assets/img/chaos_tangle.png)
 
 Then came the cleanup.
 
@@ -39,7 +39,7 @@ The problem wasn't the AI's code quality. Each session had done its job well. Th
 
 ## Enter Git Worktrees
 
-![One Repo, Three Isolated Ticket Branches](../assets/img/worktree_diagram.png)
+![One Repo, Three Isolated Ticket Branches]({{ site.baseurl }}/assets/img/worktree_diagram.png)
 
 After stepping back and thinking it through, the solution became clear: **git worktrees**.
 
@@ -66,3 +66,24 @@ Here's how the updated flow looks in practice:
 1. **Pick up a Jira ticket** → Cascade reads it via the Jira MCP and creates a branch and worktree:
    ```bash
    git worktree add ../project-TICKET-123 feature/TICKET-123
+   ```
+2. **Open a new Windsurf instance** pointed at that worktree's directory  
+3. **Let the agent work** in full isolation — no shared file risk  
+4. **Commit, push, open PR** — handled through the GitHub MCP without breaking flow  
+5. **Sync open PRs to worktrees** via the Cascade-built utility for review and testing  
+
+## Lessons Learned
+
+The excitement of running multiple AI agents in parallel is absolutely warranted — the throughput is real. But without environmental isolation, you're setting yourself up for a messy reconciliation step that chips away at those gains.
+
+Git worktrees aren't new. They've existed since Git 2.5. But the rise of agentic coding tools like Cascade — especially when paired with MCP integrations that connect directly to your project management and source control — makes them more relevant than ever. When your AI can work on three things at once, your repository structure needs to keep up.
+
+Give your agents their own space. You'll thank yourself during code review.
+
+---
+
+*Have you experimented with worktrees and AI coding agents? I'd love to hear how others are structuring their workflows — drop a comment or reach out.*
+
+---
+
+*This post was drafted with the assistance of Perplexity AI, based on my own first-hand experience. All technical details, workflow decisions, and opinions are my own.*
