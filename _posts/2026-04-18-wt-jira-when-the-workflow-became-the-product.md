@@ -70,6 +70,8 @@ interface. Each row is a ticket. The columns are:
 - **Time** — how long you have spent on it (more on this in the next post)
 - **Title** — the full ticket title, truncated to fit
 
+![wt_jira interface breakdown](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/e0811a95-1941-4970-859b-ed1b7d369005.png)
+
 The web UIs are fine in isolation. The problem is the switching. Every
 time you leave the terminal to check Jira or GitHub, you break the mental
 context you were holding. `wt_jira` keeps everything — ticket state, PR
