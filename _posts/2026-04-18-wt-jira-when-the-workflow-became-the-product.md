@@ -5,7 +5,7 @@ date: 2026-04-18
 categories: [development, git, ai, windsurf, jira]
 ---
 
-![wt_jira terminal dashboard command center](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/0e125549-668f-4f5f-8f67-b611083bf562.png)
+![wt_jira terminal dashboard command center](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/4e437a69-3b80-42fa-a631-4d03d4c47f2d.png)
 
 I set out to run parallel AI sessions cleanly. I ended up building the
 dashboard I never knew I needed. Here's what happened in between.
