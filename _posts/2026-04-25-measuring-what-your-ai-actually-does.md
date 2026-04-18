@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Measuring What Your AI Actually Does: Per-Ticket Effort Tracking with Devin and Jira"
-date: 2026-04-25
+date: 2026-04-18
 categories: [development, ai, jira, devin, productivity]
 ---
 
