@@ -7,7 +7,7 @@ categories: [devin, ai, workflow, pr-review]
 
 This is the post I promised at the end of the last one. The previous article covered why structured prompts matter for code generation. If that post was the "why," this is the "how."
 
-![Split comparison: chaotic live review vs structured batch review](https://craigdfrench.github.io/assets/generated-image%20(3).png)
+![Structured workflow: structured batch review replaces chaotic live review](/assets/generated-image (3).png)
 
 ## The problem: context switching on steroids
 
@@ -32,8 +32,6 @@ I triage each one: respond, ignore, or fix. No code changes happen yet. Every de
 The deferred actions feed into an automated overnight pipeline. Devin reads the triage decisions and applies the fixes in bulk. By morning, the PRs are updated and ready for a second pass.
 
 This means I'm no longer starting my day chasing build failures or responding to bot comments. I'm reviewing the results of a structured process.
-
-![FZF dashboard showing triage categories and overnight pipeline status](https://craigdfrench.github.io/assets/generated-image.png)
 
 ## Self-review before the human review
 
