@@ -9,8 +9,6 @@ This whole setup is, honestly, a bit of a meandering exercise in workflow design
 
 
 ![Structured Prompt Workflow Loop](https://user-gen-media-assets.s3.amazonaws.com/gemini_images/9c3f336f-2b9f-4a16-88e6-74dd74bdb128.png)
-
-![Before vs After Structured Prompts](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/329bb899-d7cf-40e3-8cf6-6f84eacf3542.png)
 ## The PR-review pattern that started it all
 
 Everything began with PR review. GitHub's automated comments, plus human reviewers, create a constant stream of noise. When I'm juggling a dozen tickets, it's easy to miss steps, forget decisions, or accidentally ship something that looks fine locally but breaks elsewhere.
