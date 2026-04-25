@@ -19,3 +19,4 @@ exclude: ['node_modules']
 markdown: kramdown
 host: localhost
 port: 8081
+future: true
