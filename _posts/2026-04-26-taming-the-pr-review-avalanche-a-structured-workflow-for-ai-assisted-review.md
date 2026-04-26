@@ -7,7 +7,7 @@ categories: [devin, ai, workflow, pr-review]
 
 This is the post I promised at the end of the last one. The previous article covered why structured prompts matter for code generation. If that post was the "why," this is the "how."
 
-![Structured workflow: structured batch review replaces chaotic live review](/assets/generated-image (3).png)
+![From notification chaos to a structured PR review dashboard](/assets/img/pr-review-chaos-vs-structured.png)
 
 ## The problem: context switching on steroids
 
@@ -27,15 +27,21 @@ The first design decision was also the simplest: I don't engage with review comm
 
 I triage each one: respond, ignore, or fix. No code changes happen yet. Every decision is stored as a deferred action for the overnight pipeline.
 
+![FZF-style triage dashboard: valid, context, and noise buckets per Jira ticket](/assets/img/pr-review-fzf-dashboard.png)
+
 ## The overnight pipeline
 
 The deferred actions feed into an automated overnight pipeline. Devin reads the triage decisions and applies the fixes in bulk. By morning, the PRs are updated and ready for a second pass.
+
+![Evening triage → overnight automated pipeline → clean GitHub in the morning](/assets/img/pr-review-overnight-pipeline.png)
 
 This means I'm no longer starting my day chasing build failures or responding to bot comments. I'm reviewing the results of a structured process.
 
 ## Self-review before the human review
 
 One of the biggest wins is the self-review step. Before Devin sends anything to a human reviewer, it reads its own changes through the lens of the project's review checklist.
+
+![Dual-model self-review: style check, idiomatic patterns, structural issues — PR ready for human review](/assets/img/pr-review-self-review.png)
 
 It catches things like:
 
