@@ -7,8 +7,8 @@ categories: [devin, ai, workflow]
 
 This whole setup is, honestly, a bit of a meandering exercise in workflow design. I didn't set out to build a coherent system; I just kept trying to solve the next most annoying friction point. What I've realized in hindsight is that the common thread running through it all is structure—specifically, how a single, well-designed prompt in Devin can encode an entire workflow, not just a one-off command.
 
+![Before and after: unstructured vs structured prompts](/assets/img/structured-prompts-before-after.png)
 
-![Structured Prompt Workflow Loop](/assets/generated-image (3).png)
 ## The PR-review pattern that started it all
 
 Everything began with PR review. GitHub's automated comments, plus human reviewers, create a constant stream of noise. When I'm juggling a dozen tickets, it's easy to miss steps, forget decisions, or accidentally ship something that looks fine locally but breaks elsewhere.
@@ -60,7 +60,7 @@ The real insight here is that structured prompts don't just change how Devin beh
 - When a phase is complete
 - How decisions flow from one phase to the next
 
-![Structured Prompt Detail](/assets/generated-image.png)
+![Structured prompt workflow loop: Jira → Devin AI Code Gen → Self-Review → Draft PR → PR Triage FZF → Nightly Build](/assets/img/structured-prompts-loop.png)
 
 That's what I'm calling a *meandering exercise* in AI-assisted development: gradually discovering that the most powerful thing about Devin isn't the model, or the speed, or the tokens—it's the way you can design prompts that shape entire workflows.
 
