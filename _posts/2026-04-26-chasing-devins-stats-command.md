@@ -7,7 +7,7 @@ categories: [devin, ai, workflow, productivity]
 
 ![Discovering /stats in a Devin terminal session](/assets/img/devin-stats-discovery.png)
 
-There's a moment when you're deep in a Devin session and you type `/stats` out of curiosity, and it just... works. Tokens in. Tokens out. Number of turns. Right there in the session. If you're the kind of person who's already thinking about per-ticket AI effort measurement — and I am, because that's [a whole other post]({{ site.baseurl }}/development/ai/jira/devin/productivity/2026/04/25/measuring-what-your-ai-actually-does.html) — your first instinct is: *I need to capture this from my orchestration script.*
+There's a moment when you're deep in a Devin session and you type `/stats` out of curiosity, and it just... works. Tokens in. Tokens out. Number of turns. Right there in the session. If you're the kind of person who's already thinking about per-ticket AI effort measurement — and I am, because that's [a whole other post]({{ site.baseurl }}/development/ai/jira/devin/productivity/2026/04/18/measuring-what-your-ai-actually-does.html) — your first instinct is: *I need to capture this from my orchestration script.*
 
 That instinct, it turns out, is easier said than done.
 
@@ -86,7 +86,7 @@ For everyone else on Core or Teams, the options are: read the session database d
 
 ## What I'm doing instead
 
-For the time being, I query Devin's local session database directly for the ACU metric and correlate it with worktree directories to get per-ticket AI effort. It's not as clean as `/stats` output, but it works without any terminal gymnastics. The full story on that approach is in [Measuring What Your AI Actually Does]({{ site.baseurl }}/development/ai/jira/devin/productivity/2026/04/25/measuring-what-your-ai-actually-does.html).
+For the time being, I query Devin's local session database directly for the ACU metric and correlate it with worktree directories to get per-ticket AI effort. It's not as clean as `/stats` output, but it works without any terminal gymnastics. The full story on that approach is in [Measuring What Your AI Actually Does]({{ site.baseurl }}/development/ai/jira/devin/productivity/2026/04/18/measuring-what-your-ai-actually-does.html).
 
 The `/stats` adventure was a dead end, but it was an instructive one. Sometimes the most useful thing you can learn is exactly where the seam doesn't exist yet.
 
